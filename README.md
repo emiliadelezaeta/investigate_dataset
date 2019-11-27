@@ -4,11 +4,12 @@ In this project, you will analyze a dataset and then communicate your findings a
 
 # Installs
 
+You will need an installation of Python, plus the following libraries:
+
   - [Anaconda](https://www.anaconda.com/distribution/)
-  - Libraries 
-      - Numpy 
-        ```python
-        pip install numpy
-        ```
+  - Numpy 
+```python
+pip install numpy
+```
   
     
