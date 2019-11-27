@@ -4,5 +4,12 @@ In this project, you will analyze a dataset and then communicate your findings a
 
 # Install
 
-  [Anaconda](https://www.anaconda.com/distribution/)
+  - [Anaconda](https://www.anaconda.com/distribution/)
+  - Libraries 
+      Numpy 
+
+```python
+pip install numpy
+```
+  
     
