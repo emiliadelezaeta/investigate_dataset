@@ -19,3 +19,5 @@ pip install pandas
  ```python
 pip install matplotlib
 ```   
+In case that you don´t have the package intaller __pip__ you can follow this link:
+[pip - The Python Package Installer](https://pip.pypa.io/en/stable/)
