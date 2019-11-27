@@ -23,7 +23,7 @@ In case that you don´t have the package intaller __pip__ you can follow this li
 [pip - The Python Package Installer](https://pip.pypa.io/en/stable/)
 
 
-# Concept
+# Concepts
 
 - EDA (Explanatory Data Analysis)
 
