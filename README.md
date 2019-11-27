@@ -11,5 +11,11 @@ You will need an installation of Python, plus the following libraries:
 ```python
 pip install numpy
 ```
-  
-    
+  - Pandas
+```python
+pip install pandas
+```
+- Matplolib
+ ```python
+pip install matplotlib
+```   
