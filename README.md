@@ -31,7 +31,7 @@ In statistics, exploratory data analysis (EDA) is an approach to analyzing data 
 
 [Exaplanatory Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 
-# visualization libraries
+# Visualization Libraries
 
 [Matplotlib](https://matplotlib.org/index.html)
 
