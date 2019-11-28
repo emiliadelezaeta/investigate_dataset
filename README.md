@@ -7,7 +7,7 @@ In this project, you will analyze a dataset and then communicate your findings a
 You will need an installation of Python, plus the following libraries:
 
   - [Anaconda](https://www.anaconda.com/distribution/)
-  - Numpy 
+  - NumPy 
 ```python
 pip install numpy
 ```
@@ -15,7 +15,7 @@ pip install numpy
 ```python
 pip install pandas
 ```
-- Matplolib
+- Matplotlib
  ```python
 pip install matplotlib
 ```   
