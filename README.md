@@ -30,3 +30,9 @@ In case that you don´t have the package intaller __pip__ you can follow this li
 In statistics, exploratory data analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. A statistical model can be used or not, but primarily EDA is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task
 
 [Exaplanatory Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+
+# visualization libraries
+
+[Matplotlib](https://matplotlib.org/index.html)
+
+[Seaborn](https://seaborn.pydata.org/)
